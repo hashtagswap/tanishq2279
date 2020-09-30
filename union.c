@@ -8,7 +8,7 @@ for(i=0;i<5;i++)
     {
      scanf("%d",&a[i]);
     }
-printf("Enter set B \n");
+printf("Enter set B \t \n");
 for(i=0;i<5;i++)
     {
      scanf("%d",&b[i]);
